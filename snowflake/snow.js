@@ -1,7 +1,7 @@
 "use babel";
 global._ = require('underscore.string')
 var a=''
-var b='CM_DAN_JACKSON'
+var b=''
 var c='PROD_CRM_ACCESS_WH'
 var f='pets'
 var g='eu-central-1'
